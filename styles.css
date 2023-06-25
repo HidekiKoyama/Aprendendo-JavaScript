@@ -1,0 +1,8 @@
+.fundo-normal{
+    background-color: #ffffff;
+    text-align: center;
+    width: fit-content;
+    margin: 0 auto;
+    border-radius: 5px;
+    padding: 15px;
+}
